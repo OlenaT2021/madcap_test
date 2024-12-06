@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlossary>
+  <GlossaryEntry
+    glossTerm="PolandGuideGlossary.Term0"
+    Stem=""
+    IgnoreCase="true">
+    <Terms>
+      <Term>Europe</Term>
+    </Terms>
+    <Definition
+      Link="">a continent located entirely in the Northern Hemisphere</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="PolandGuideGlossary.Term1"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Goldwasser</Term>
+    </Terms>
+    <Definition
+      Link="">a registered tradename of a strong root and herbal liqueur</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="PolandGuideGlossary.Term2"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Dlugi Targ</Term>
+    </Terms>
+    <Definition
+      Link="">the most notable tourist attractions of Gdansk</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="PolandGuideGlossary.Term3"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>WWII</Term>
+    </Terms>
+    <Definition
+      Link="">World War the second</Definition>
+  </GlossaryEntry>
+</CatapultGlossary>

@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Guide/Copyright.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    conditions="Default.PrintOnly"
+    ChapterNumberReset="continue"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    SectionNumberReset="continue"
+    VolumeNumberReset="continue"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    VolumeNumber="1"
+    VolumeNumberFormat="decimal" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Guide/TOC.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    conditions="Default.PrintOnly"
+    ChapterNumberReset="continue"
+    ChapterNumber="2"
+    ChapterNumberFormat="decimal"
+    SectionNumberReset="continue"
+    VolumeNumberReset="continue"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    VolumeNumberFormat="decimal"
+    VolumeNumber="2" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Guide/Intro.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    ChapterNumberReset="continue"
+    ChapterNumber="3"
+    ChapterNumberFormat="decimal"
+    SectionNumberReset="continue"
+    VolumeNumberReset="continue"
+    VolumeNumber="3"
+    VolumeNumberFormat="decimal" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Guide/Gdansk Travel guide.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    ChapterNumber="4"
+    ChapterNumberFormat="decimal"
+    SectionNumberReset="continue"
+    VolumeNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Guide/Katowice.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    ChapterNumberReset="continue"
+    ChapterNumberFormat="decimal"
+    ChapterNumber="5"
+    SectionNumberReset="continue"
+    VolumeNumberReset="continue" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Guide/Kiermusy.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    ChapterNumberReset="continue"
+    ChapterNumberFormat="decimal"
+    ChapterNumber="6"
+    SectionNumberReset="continue"
+    VolumeNumberReset="continue" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Guide/Konstancin-Jeziorna.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    ChapterNumberReset="continue"
+    ChapterNumberFormat="decimal"
+    ChapterNumber="7"
+    SectionNumberReset="continue"
+    VolumeNumberReset="continue">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Guide/Tresc_MB.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      ChapterNumberReset="continue"
+      ChapterNumberFormat="decimal" />
+  </TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Guide/Lubusz Voivodeship.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    ChapterNumberReset="continue"
+    ChapterNumberFormat="decimal"
+    ChapterNumber="8"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Guide/MyGuide.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    ChapterNumberReset="continue"
+    ChapterNumberFormat="decimal"
+    ChapterNumber="9"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Guide/Przewodnik po PL.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    ChapterNumberReset="continue"
+    ChapterNumberFormat="decimal"
+    ChapterNumber="10"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Guide/Przewodnik Waw.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    ChapterNumberReset="continue"
+    ChapterNumberFormat="decimal"
+    ChapterNumber="11"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Guide/Warszawa.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      ChapterNumberReset="continue"
+      ChapterNumberFormat="decimal">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Guide/Sanok.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+        ChapterNumberReset="continue"
+        ChapterNumberFormat="decimal">
+        <TocEntry
+          Title="[%=System.LinkedHeader%]"
+          Link="/Content/Guide/About.htm"
+          StartSection="false"
+          SectionNumberReset="continue"
+          VolumeNumberReset="same"
+          ChapterNumberReset="continue"
+          ChapterNumberFormat="decimal"></TocEntry>
+      </TocEntry>
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Guide/Town_of_Angels.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    ChapterNumberReset="continue"
+    ChapterNumberFormat="decimal"
+    ChapterNumber="12"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Guide/Glossary.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    conditions="Default.ScreenOnly" />
+</CatapultToc>
